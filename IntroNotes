@@ -1,0 +1,33 @@
+
+# What is OpenAPI?
+- OpenAPI Specification (formerly Swagger Specification) is an API description format for REST APIs.
+- The OpenAPI Specification (OAS) defines a standard, language-agnostic interface to RESTful APIs which allows both humans and computers to discover and understand the capabilities of the service without access to source code, documentation, or through network traffic inspection.
+
+
+# What is SwaggerHub?
+
+- Core principlae behind SwaggerHub is Design First, Code Later.
+
+SwaggerHub is a collaborative platform where you can define your APIs using the OpenAPI Specification, and manage your APIs throughout their lifecycle. 
+It integrates the core Swagger tools (UI, Editor, Codegen, Validator) into a single platform to help you coordinate the entire workflow of an API’s lifecycle.
+
+With SwaggerHub, you can:
+
+    Define your APIs in the OpenAPI format.
+
+    Host all your API definitions in a single place.
+
+    Store your common API components (such as data models and responses) in domains and reference them from API definitions.
+
+    Collaborate on API definitions with your team.
+
+    Generate server and client code and push it to GitHub, GitLab, Bitbucket, or Azure DevOps Services.
+
+    Share your APIs publicly and privately.
+
+    Iterate the API design and manage multiple API versions.
+
+
+
+-----------------------
+
